@@ -1,0 +1,6 @@
+Sistema de login
+-> Cadastro: nome, email, senha (não permitir emails iguais) -- sem brechas de segurança.. senha: força, salvar com criptografia! cha256
+
+-> Login: e-mail e senha
+
+Tecnologia: Python, POO, MVC, ORM (banco de dados)
